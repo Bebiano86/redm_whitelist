@@ -1,23 +1,23 @@
 # redm_whitelist
 whitelist for RedM servers
 
----Dependencias---
+[---Dependencias---]
 
-mysql-async
+ mysql-async
 
----Instalação---
+[---Instalação---]
+```
+1) enviar redm_whitelist para dentro da pasta resources [REDM]
 
-enviar redm_whitelist para dentro da pasta resources [REDM]
+2) Inportar redm_whitelist.sql para a tua base de dados
 
-Inportar redm_whitelist.sql para a tua base de dados
-
-adicionar ao server.cfg (ensure redm_whitelist)
-
----adicionar jogadores a whitelist---
-
+3) adicionar ao server.cfg (ensure redm_whitelist)
+```
+[---adicionar jogadores a whitelist---]
+```
 INSERT INTO whitelist(identifier) VALUES ('O TEU STEAM ID AQUI')
-
-exemplo: 
-
+```
+[exemplo:] 
+```
 INSERT INTO whitelist(identifier) VALUES ('steam:110000107b87724')
-
+```
