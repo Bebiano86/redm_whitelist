@@ -13,7 +13,7 @@ Inportar redm_whitelist.sql para a tua base de dados
 
 adicionar ao server.cfg (ensure redm_whitelist)
 
-adicionar jogadores a whitelist
+---adicionar jogadores a whitelist---
 
 INSERT INTO whitelist(identifier) VALUES ('YOURSTEAMIDHERE')
 
