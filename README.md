@@ -15,7 +15,7 @@ adicionar ao server.cfg (ensure redm_whitelist)
 
 ---adicionar jogadores a whitelist---
 
-INSERT INTO whitelist(identifier) VALUES ('YOURSTEAMIDHERE')
+INSERT INTO whitelist(identifier) VALUES ('O TEU STEAM ID AQUI')
 
 exemplo: 
 
