@@ -12,5 +12,8 @@ adicionar ao server.cfg (ensure redm_whitelist)
 adicionar jogadores a whitelist
 
 INSERT INTO whitelist(identifier) VALUES ('YOURSTEAMIDHERE')
-exemplo: INSERT INTO whitelist(identifier) VALUES ('steam:110000107b87724')
+
+exemplo: 
+
+INSERT INTO whitelist(identifier) VALUES ('steam:110000107b87724')
 
