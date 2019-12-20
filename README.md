@@ -2,6 +2,7 @@
 whitelist for RedM servers
 
 ---Dependencias---
+
 mysql-async
 
 ---Instalação---
