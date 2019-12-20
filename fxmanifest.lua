@@ -10,6 +10,7 @@ server_scripts {
 	'@mysql-async/lib/MySQL.lua',
 	'locale.lua',
 	'config.lua',
+	'locales/pt.lua',
 	'locales/en.lua',
 	'locales/fr.lua',
 	'locales/sv.lua',
